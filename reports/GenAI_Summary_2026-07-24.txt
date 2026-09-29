@@ -1,7 +1,7 @@
 VALUATION CONTROL & IPV EXECUTIVE BRIEFING
 Valuation Date: 2026-07-24
-Engine: Google Gemini Live API (gemini-flash-lite-latest)
-Timestamp: 2026-09-29 17:50:34.364611
+Engine: Analytical Rule-Based Baseline (Offline / No Key)
+Timestamp: 2026-09-29 18:11:58.086171
 ============================================================
 
-Today's IPV cycle flagged 4 total valuation breaks, comprising 3 Major (>5%) and 1 Minor (3–5%) severity exceptions. The analysis reveals a distinct structural pattern driven entirely by trader TDR_NY_FIN01, who exhibits a pronounced positive marking bias (+/undervaluation of market risk) exclusively concentrated within the Financials sector. The single largest outlier breach is observed in BAC with an exact variance percentage of +6.66%. Product Control must immediately escalate these Financials desk marks to the Trading Desk Head and enforce a formal valuation adjustment if independent consensus pricing is not substantiated by tomorrow's close.
+For valuation date 2026-07-24, the IPV control engine flagged 4 total exceptions, comprising 3 Major (>5.0%) and 1 Minor (3.0%–5.0%) breaches. A high-risk concentration pattern was detected in the Financials book, where trader TDR_NY_FIN01 accounted for 3 of the 4 breaks with correlated aggressive marks. The single largest valuation break was observed on BAC with a +6.66% variance (Trader Mark: $66.18 vs. Independent Market: $62.05). Product Control recommends immediate escalation to the Financials Desk Head to challenge pricing models and initiate formal justification reviews before market open.

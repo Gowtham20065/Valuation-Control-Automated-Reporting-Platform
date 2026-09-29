@@ -73,7 +73,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 72,2026-04-10,6,UBS,Equity,Financials,41.49,42.45,TDR_LN_FIN02,2.31,,In Tolerance,N/A,0
 73,2026-04-13,1,AAPL,Equity,Technology,259.2,259.06,TDR_NY_TECH01,-0.05,,In Tolerance,N/A,0
 74,2026-04-13,8,BAC,Equity,Financials,53.35,54.6,TDR_NY_FIN01,2.34,,In Tolerance,N/A,0
-75,2026-04-13,3,GOOGL,Equity,Technology,321.31,308.68,TDR_NY_TECH02,-3.93,127.0,Minor,Open,1
+75,2026-04-13,3,GOOGL,Equity,Technology,321.31,308.68,TDR_NY_TECH02,-3.93,1.0,Minor,Open,1
 76,2026-04-13,5,GS,Equity,Financials,890.79,901.77,TDR_LN_FIN02,1.23,,In Tolerance,N/A,0
 77,2026-04-13,4,JPM,Equity,Financials,313.68,314.09,TDR_NY_FIN01,0.13,,In Tolerance,N/A,0
 78,2026-04-13,7,MS,Equity,Financials,181.14,180.33,TDR_NY_FIN01,-0.45,,In Tolerance,N/A,0
@@ -81,7 +81,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 80,2026-04-13,6,UBS,Equity,Financials,42.63,41.36,TDR_LN_FIN02,-2.98,,In Tolerance,N/A,0
 81,2026-04-14,1,AAPL,Equity,Technology,258.83,257.98,TDR_NY_TECH01,-0.33,,In Tolerance,N/A,0
 82,2026-04-14,8,BAC,Equity,Financials,53.35,53.64,TDR_NY_FIN01,0.54,,In Tolerance,N/A,0
-83,2026-04-14,3,GOOGL,Equity,Technology,332.91,352.02,TDR_NY_TECH02,5.74,189.0,Major,Open,1
+83,2026-04-14,3,GOOGL,Equity,Technology,332.91,352.02,TDR_NY_TECH02,5.74,2.0,Major,Open,1
 84,2026-04-14,5,GS,Equity,Financials,909.63,902.56,TDR_LN_FIN02,-0.78,,In Tolerance,N/A,0
 85,2026-04-14,4,JPM,Equity,Financials,311.12,307.35,TDR_NY_FIN01,-1.21,,In Tolerance,N/A,0
 86,2026-04-14,7,MS,Equity,Financials,183.34,181.96,TDR_NY_FIN01,-0.75,,In Tolerance,N/A,0
@@ -112,7 +112,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 111,2026-04-17,2,MSFT,Equity,Technology,422.79,410.62,TDR_NY_TECH01,-2.88,,In Tolerance,N/A,0
 112,2026-04-17,6,UBS,Equity,Financials,43.74,43.72,TDR_LN_FIN02,-0.05,,In Tolerance,N/A,0
 113,2026-04-20,1,AAPL,Equity,Technology,273.05,273.3,TDR_NY_TECH01,0.09,,In Tolerance,N/A,0
-114,2026-04-20,8,BAC,Equity,Financials,53.95,55.94,TDR_NY_FIN01,3.69,129.0,Minor,Open,1
+114,2026-04-20,8,BAC,Equity,Financials,53.95,55.94,TDR_NY_FIN01,3.69,3.0,Minor,Open,1
 115,2026-04-20,3,GOOGL,Equity,Technology,337.42,336.45,TDR_NY_TECH02,-0.29,,In Tolerance,N/A,0
 116,2026-04-20,5,GS,Equity,Financials,941.74,946.0,TDR_LN_FIN02,0.45,,In Tolerance,N/A,0
 117,2026-04-20,4,JPM,Equity,Financials,316.99,316.82,TDR_NY_FIN01,-0.05,,In Tolerance,N/A,0
@@ -124,7 +124,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 123,2026-04-21,3,GOOGL,Equity,Technology,332.29,339.28,TDR_NY_TECH02,2.1,,In Tolerance,N/A,0
 124,2026-04-21,5,GS,Equity,Financials,926.55,907.07,TDR_LN_FIN02,-2.1,,In Tolerance,N/A,0
 125,2026-04-21,4,JPM,Equity,Financials,313.0,315.76,TDR_NY_FIN01,0.88,,In Tolerance,N/A,0
-126,2026-04-21,7,MS,Equity,Financials,189.31,195.53,TDR_NY_FIN01,3.29,130.0,Minor,Open,1
+126,2026-04-21,7,MS,Equity,Financials,189.31,195.53,TDR_NY_FIN01,3.29,4.0,Minor,Open,1
 127,2026-04-21,2,MSFT,Equity,Technology,424.16,417.86,TDR_NY_TECH01,-1.49,,In Tolerance,N/A,0
 128,2026-04-21,6,UBS,Equity,Financials,43.23,42.86,TDR_LN_FIN02,-0.86,,In Tolerance,N/A,0
 129,2026-04-22,1,AAPL,Equity,Technology,273.17,273.58,TDR_NY_TECH01,0.15,,In Tolerance,N/A,0
@@ -142,7 +142,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 141,2026-04-23,4,JPM,Equity,Financials,311.69,312.75,TDR_NY_FIN01,0.34,,In Tolerance,N/A,0
 142,2026-04-23,7,MS,Equity,Financials,188.65,192.35,TDR_NY_FIN01,1.96,,In Tolerance,N/A,0
 143,2026-04-23,2,MSFT,Equity,Technology,415.75,405.73,TDR_NY_TECH01,-2.41,,In Tolerance,N/A,0
-144,2026-04-23,6,UBS,Equity,Financials,41.04,44.26,TDR_LN_FIN02,7.85,131.0,Major,Open,1
+144,2026-04-23,6,UBS,Equity,Financials,41.04,44.26,TDR_LN_FIN02,7.85,5.0,Major,Open,1
 145,2026-04-24,1,AAPL,Equity,Technology,271.06,272.12,TDR_NY_TECH01,0.39,,In Tolerance,N/A,0
 146,2026-04-24,8,BAC,Equity,Financials,52.05,52.66,TDR_NY_FIN01,1.17,,In Tolerance,N/A,0
 147,2026-04-24,3,GOOGL,Equity,Technology,344.4,338.01,TDR_NY_TECH02,-1.86,,In Tolerance,N/A,0
@@ -178,11 +178,11 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 177,2026-04-30,1,AAPL,Equity,Technology,271.35,271.4,TDR_NY_TECH01,0.02,,In Tolerance,N/A,0
 178,2026-04-30,8,BAC,Equity,Financials,53.46,54.63,TDR_NY_FIN01,2.19,,In Tolerance,N/A,0
 179,2026-04-30,3,GOOGL,Equity,Technology,384.8,383.27,TDR_NY_TECH02,-0.4,,In Tolerance,N/A,0
-180,2026-04-30,5,GS,Equity,Financials,923.77,961.46,TDR_LN_FIN02,4.08,132.0,Minor,Open,1
-181,2026-04-30,4,JPM,Equity,Financials,313.23,292.36,TDR_NY_FIN01,-6.66,133.0,Major,Open,1
+180,2026-04-30,5,GS,Equity,Financials,923.77,961.46,TDR_LN_FIN02,4.08,6.0,Minor,Open,1
+181,2026-04-30,4,JPM,Equity,Financials,313.23,292.36,TDR_NY_FIN01,-6.66,7.0,Major,Open,1
 182,2026-04-30,7,MS,Equity,Financials,190.59,188.14,TDR_NY_FIN01,-1.29,,In Tolerance,N/A,0
 183,2026-04-30,2,MSFT,Equity,Technology,407.78,401.23,TDR_NY_TECH01,-1.61,,In Tolerance,N/A,0
-184,2026-04-30,6,UBS,Equity,Financials,43.9,47.14,TDR_LN_FIN02,7.38,134.0,Major,Open,1
+184,2026-04-30,6,UBS,Equity,Financials,43.9,47.14,TDR_LN_FIN02,7.38,8.0,Major,Open,1
 185,2026-05-01,1,AAPL,Equity,Technology,280.14,279.2,TDR_NY_TECH01,-0.34,,In Tolerance,N/A,0
 186,2026-05-01,8,BAC,Equity,Financials,53.24,53.81,TDR_NY_FIN01,1.07,,In Tolerance,N/A,0
 187,2026-05-01,3,GOOGL,Equity,Technology,385.69,388.43,TDR_NY_TECH02,0.71,,In Tolerance,N/A,0
@@ -190,7 +190,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 189,2026-05-01,4,JPM,Equity,Financials,312.47,308.5,TDR_NY_FIN01,-1.27,,In Tolerance,N/A,0
 190,2026-05-01,7,MS,Equity,Financials,190.17,185.85,TDR_NY_FIN01,-2.27,,In Tolerance,N/A,0
 191,2026-05-01,2,MSFT,Equity,Technology,414.44,411.66,TDR_NY_TECH01,-0.67,,In Tolerance,N/A,0
-192,2026-05-01,6,UBS,Equity,Financials,43.69,47.01,TDR_LN_FIN02,7.6,135.0,Major,Open,1
+192,2026-05-01,6,UBS,Equity,Financials,43.69,47.01,TDR_LN_FIN02,7.6,9.0,Major,Open,1
 193,2026-05-04,1,AAPL,Equity,Technology,276.83,277.72,TDR_NY_TECH01,0.32,,In Tolerance,N/A,0
 194,2026-05-04,8,BAC,Equity,Financials,52.19,51.21,TDR_NY_FIN01,-1.88,,In Tolerance,N/A,0
 195,2026-05-04,3,GOOGL,Equity,Technology,383.25,384.25,TDR_NY_TECH02,0.26,,In Tolerance,N/A,0
@@ -208,7 +208,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 207,2026-05-05,2,MSFT,Equity,Technology,411.38,414.56,TDR_NY_TECH01,0.77,,In Tolerance,N/A,0
 208,2026-05-05,6,UBS,Equity,Financials,44.1,44.44,TDR_LN_FIN02,0.77,,In Tolerance,N/A,0
 209,2026-05-06,1,AAPL,Equity,Technology,287.51,289.73,TDR_NY_TECH01,0.77,,In Tolerance,N/A,0
-210,2026-05-06,8,BAC,Equity,Financials,53.6,56.7,TDR_NY_FIN01,5.78,136.0,Major,Open,1
+210,2026-05-06,8,BAC,Equity,Financials,53.6,56.7,TDR_NY_FIN01,5.78,10.0,Major,Open,1
 211,2026-05-06,3,GOOGL,Equity,Technology,398.04,401.45,TDR_NY_TECH02,0.86,,In Tolerance,N/A,0
 212,2026-05-06,5,GS,Equity,Financials,937.35,953.32,TDR_LN_FIN02,1.7,,In Tolerance,N/A,0
 213,2026-05-06,4,JPM,Equity,Financials,314.9,319.41,TDR_NY_FIN01,1.43,,In Tolerance,N/A,0
@@ -219,7 +219,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 218,2026-05-07,8,BAC,Equity,Financials,52.75,52.56,TDR_NY_FIN01,-0.36,,In Tolerance,N/A,0
 219,2026-05-07,3,GOOGL,Equity,Technology,397.99,395.09,TDR_NY_TECH02,-0.73,,In Tolerance,N/A,0
 220,2026-05-07,5,GS,Equity,Financials,925.87,927.01,TDR_LN_FIN02,0.12,,In Tolerance,N/A,0
-221,2026-05-07,4,JPM,Equity,Financials,306.27,316.9,TDR_NY_FIN01,3.47,137.0,Minor,Open,1
+221,2026-05-07,4,JPM,Equity,Financials,306.27,316.9,TDR_NY_FIN01,3.47,11.0,Minor,Open,1
 222,2026-05-07,7,MS,Equity,Financials,190.17,184.84,TDR_NY_FIN01,-2.8,,In Tolerance,N/A,0
 223,2026-05-07,2,MSFT,Equity,Technology,420.77,425.1,TDR_NY_TECH01,1.03,,In Tolerance,N/A,0
 224,2026-05-07,6,UBS,Equity,Financials,44.41,43.34,TDR_LN_FIN02,-2.41,,In Tolerance,N/A,0
@@ -233,9 +233,9 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 232,2026-05-08,6,UBS,Equity,Financials,45.23,45.38,TDR_LN_FIN02,0.33,,In Tolerance,N/A,0
 233,2026-05-11,1,AAPL,Equity,Technology,292.68,292.88,TDR_NY_TECH01,0.07,,In Tolerance,N/A,0
 234,2026-05-11,8,BAC,Equity,Financials,50.55,50.06,TDR_NY_FIN01,-0.97,,In Tolerance,N/A,0
-235,2026-05-11,3,GOOGL,Equity,Technology,388.64,401.14,TDR_NY_TECH02,3.22,138.0,Minor,Open,1
+235,2026-05-11,3,GOOGL,Equity,Technology,388.64,401.14,TDR_NY_TECH02,3.22,12.0,Minor,Open,1
 236,2026-05-11,5,GS,Equity,Financials,944.86,953.84,TDR_LN_FIN02,0.95,,In Tolerance,N/A,0
-237,2026-05-11,4,JPM,Equity,Financials,300.0,290.89,TDR_NY_FIN01,-3.04,139.0,Minor,Open,1
+237,2026-05-11,4,JPM,Equity,Financials,300.0,290.89,TDR_NY_FIN01,-3.04,13.0,Minor,Open,1
 238,2026-05-11,7,MS,Equity,Financials,191.1,191.63,TDR_NY_FIN01,0.28,,In Tolerance,N/A,0
 239,2026-05-11,2,MSFT,Equity,Technology,412.66,408.56,TDR_NY_TECH01,-0.99,,In Tolerance,N/A,0
 240,2026-05-11,6,UBS,Equity,Financials,44.84,45.41,TDR_LN_FIN02,1.27,,In Tolerance,N/A,0
@@ -243,7 +243,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 242,2026-05-12,8,BAC,Equity,Financials,50.78,50.69,TDR_NY_FIN01,-0.18,,In Tolerance,N/A,0
 243,2026-05-12,3,GOOGL,Equity,Technology,387.35,390.28,TDR_NY_TECH02,0.76,,In Tolerance,N/A,0
 244,2026-05-12,5,GS,Equity,Financials,945.9,958.18,TDR_LN_FIN02,1.3,,In Tolerance,N/A,0
-245,2026-05-12,4,JPM,Equity,Financials,304.88,326.0,TDR_NY_FIN01,6.93,140.0,Major,Open,1
+245,2026-05-12,4,JPM,Equity,Financials,304.88,326.0,TDR_NY_FIN01,6.93,14.0,Major,Open,1
 246,2026-05-12,7,MS,Equity,Financials,191.88,190.92,TDR_NY_FIN01,-0.5,,In Tolerance,N/A,0
 247,2026-05-12,2,MSFT,Equity,Technology,407.77,404.86,TDR_NY_TECH01,-0.71,,In Tolerance,N/A,0
 248,2026-05-12,6,UBS,Equity,Financials,45.15,44.71,TDR_LN_FIN02,-0.97,,In Tolerance,N/A,0
@@ -251,7 +251,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 250,2026-05-13,8,BAC,Equity,Financials,49.84,50.14,TDR_NY_FIN01,0.6,,In Tolerance,N/A,0
 251,2026-05-13,3,GOOGL,Equity,Technology,402.62,395.01,TDR_NY_TECH02,-1.89,,In Tolerance,N/A,0
 252,2026-05-13,5,GS,Equity,Financials,955.42,968.57,TDR_LN_FIN02,1.38,,In Tolerance,N/A,0
-253,2026-05-13,4,JPM,Equity,Financials,300.25,309.81,TDR_NY_FIN01,3.18,141.0,Minor,Open,1
+253,2026-05-13,4,JPM,Equity,Financials,300.25,309.81,TDR_NY_FIN01,3.18,15.0,Minor,Open,1
 254,2026-05-13,7,MS,Equity,Financials,193.83,196.83,TDR_NY_FIN01,1.55,,In Tolerance,N/A,0
 255,2026-05-13,2,MSFT,Equity,Technology,405.21,395.98,TDR_NY_TECH01,-2.28,,In Tolerance,N/A,0
 256,2026-05-13,6,UBS,Equity,Financials,46.28,45.94,TDR_LN_FIN02,-0.73,,In Tolerance,N/A,0
@@ -261,7 +261,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 260,2026-05-14,5,GS,Equity,Financials,968.96,980.22,TDR_LN_FIN02,1.16,,In Tolerance,N/A,0
 261,2026-05-14,4,JPM,Equity,Financials,299.91,295.74,TDR_NY_FIN01,-1.39,,In Tolerance,N/A,0
 262,2026-05-14,7,MS,Equity,Financials,194.53,194.36,TDR_NY_FIN01,-0.09,,In Tolerance,N/A,0
-263,2026-05-14,2,MSFT,Equity,Technology,409.43,389.52,TDR_NY_TECH01,-4.86,142.0,Minor,Open,1
+263,2026-05-14,2,MSFT,Equity,Technology,409.43,389.52,TDR_NY_TECH01,-4.86,16.0,Minor,Open,1
 264,2026-05-14,6,UBS,Equity,Financials,46.35,45.64,TDR_LN_FIN02,-1.53,,In Tolerance,N/A,0
 265,2026-05-15,1,AAPL,Equity,Technology,300.23,299.09,TDR_NY_TECH01,-0.38,,In Tolerance,N/A,0
 266,2026-05-15,8,BAC,Equity,Financials,49.77,48.84,TDR_NY_FIN01,-1.87,,In Tolerance,N/A,0
@@ -283,11 +283,11 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 282,2026-05-19,8,BAC,Equity,Financials,50.7,51.2,TDR_NY_FIN01,0.99,,In Tolerance,N/A,0
 283,2026-05-19,3,GOOGL,Equity,Technology,387.66,396.88,TDR_NY_TECH02,2.38,,In Tolerance,N/A,0
 284,2026-05-19,5,GS,Equity,Financials,928.74,911.5,TDR_LN_FIN02,-1.86,,In Tolerance,N/A,0
-285,2026-05-19,4,JPM,Equity,Financials,295.7,305.16,TDR_NY_FIN01,3.2,143.0,Minor,Open,1
+285,2026-05-19,4,JPM,Equity,Financials,295.7,305.16,TDR_NY_FIN01,3.2,17.0,Minor,Open,1
 286,2026-05-19,7,MS,Equity,Financials,189.58,184.03,TDR_NY_FIN01,-2.93,,In Tolerance,N/A,0
 287,2026-05-19,2,MSFT,Equity,Technology,417.42,416.47,TDR_NY_TECH01,-0.23,,In Tolerance,N/A,0
 288,2026-05-19,6,UBS,Equity,Financials,45.56,45.96,TDR_LN_FIN02,0.88,,In Tolerance,N/A,0
-289,2026-05-20,1,AAPL,Equity,Technology,302.25,321.63,TDR_NY_TECH01,6.41,144.0,Major,Open,1
+289,2026-05-20,1,AAPL,Equity,Technology,302.25,321.63,TDR_NY_TECH01,6.41,18.0,Major,Open,1
 290,2026-05-20,8,BAC,Equity,Financials,51.23,50.75,TDR_NY_FIN01,-0.94,,In Tolerance,N/A,0
 291,2026-05-20,3,GOOGL,Equity,Technology,388.91,387.7,TDR_NY_TECH02,-0.31,,In Tolerance,N/A,0
 292,2026-05-20,5,GS,Equity,Financials,982.12,974.86,TDR_LN_FIN02,-0.74,,In Tolerance,N/A,0
@@ -322,7 +322,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 321,2026-05-27,1,AAPL,Equity,Technology,310.85,311.3,TDR_NY_TECH01,0.14,,In Tolerance,N/A,0
 322,2026-05-27,8,BAC,Equity,Financials,51.1,51.56,TDR_NY_FIN01,0.9,,In Tolerance,N/A,0
 323,2026-05-27,3,GOOGL,Equity,Technology,388.83,384.06,TDR_NY_TECH02,-1.23,,In Tolerance,N/A,0
-324,2026-05-27,5,GS,Equity,Financials,996.47,1027.75,TDR_LN_FIN02,3.14,145.0,Minor,Open,1
+324,2026-05-27,5,GS,Equity,Financials,996.47,1027.75,TDR_LN_FIN02,3.14,19.0,Minor,Open,1
 325,2026-05-27,4,JPM,Equity,Financials,299.28,294.76,TDR_NY_FIN01,-1.51,,In Tolerance,N/A,0
 326,2026-05-27,7,MS,Equity,Financials,201.61,197.94,TDR_NY_FIN01,-1.82,,In Tolerance,N/A,0
 327,2026-05-27,2,MSFT,Equity,Technology,412.67,419.84,TDR_NY_TECH01,1.74,,In Tolerance,N/A,0
@@ -373,15 +373,15 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 372,2026-06-04,5,GS,Equity,Financials,1092.61,1100.77,TDR_LN_FIN02,0.75,,In Tolerance,N/A,0
 373,2026-06-04,4,JPM,Equity,Financials,310.89,317.66,TDR_NY_FIN01,2.18,,In Tolerance,N/A,0
 374,2026-06-04,7,MS,Equity,Financials,218.27,221.41,TDR_NY_FIN01,1.44,,In Tolerance,N/A,0
-375,2026-06-04,2,MSFT,Equity,Technology,428.05,441.88,TDR_NY_TECH01,3.23,146.0,Minor,Open,1
+375,2026-06-04,2,MSFT,Equity,Technology,428.05,441.88,TDR_NY_TECH01,3.23,20.0,Minor,Open,1
 376,2026-06-04,6,UBS,Equity,Financials,47.67,47.12,TDR_LN_FIN02,-1.15,,In Tolerance,N/A,0
 377,2026-06-05,1,AAPL,Equity,Technology,307.34,311.36,TDR_NY_TECH01,1.31,,In Tolerance,N/A,0
 378,2026-06-05,8,BAC,Equity,Financials,53.83,53.98,TDR_NY_FIN01,0.28,,In Tolerance,N/A,0
-379,2026-06-05,3,GOOGL,Equity,Technology,368.53,380.64,TDR_NY_TECH02,3.29,147.0,Minor,Open,1
+379,2026-06-05,3,GOOGL,Equity,Technology,368.53,380.64,TDR_NY_TECH02,3.29,21.0,Minor,Open,1
 380,2026-06-05,5,GS,Equity,Financials,1038.68,1026.09,TDR_LN_FIN02,-1.21,,In Tolerance,N/A,0
 381,2026-06-05,4,JPM,Equity,Financials,312.37,308.44,TDR_NY_FIN01,-1.26,,In Tolerance,N/A,0
 382,2026-06-05,7,MS,Equity,Financials,211.93,210.02,TDR_NY_FIN01,-0.9,,In Tolerance,N/A,0
-383,2026-06-05,2,MSFT,Equity,Technology,416.67,403.4,TDR_NY_TECH01,-3.18,148.0,Minor,Open,1
+383,2026-06-05,2,MSFT,Equity,Technology,416.67,403.4,TDR_NY_TECH01,-3.18,22.0,Minor,Open,1
 384,2026-06-05,6,UBS,Equity,Financials,47.01,46.64,TDR_LN_FIN02,-0.79,,In Tolerance,N/A,0
 385,2026-06-08,1,AAPL,Equity,Technology,301.54,298.11,TDR_NY_TECH01,-1.14,,In Tolerance,N/A,0
 386,2026-06-08,8,BAC,Equity,Financials,53.63,53.75,TDR_NY_FIN01,0.22,,In Tolerance,N/A,0
@@ -419,7 +419,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 418,2026-06-12,8,BAC,Equity,Financials,56.02,56.12,TDR_NY_FIN01,0.18,,In Tolerance,N/A,0
 419,2026-06-12,3,GOOGL,Equity,Technology,359.68,366.04,TDR_NY_TECH02,1.77,,In Tolerance,N/A,0
 420,2026-06-12,5,GS,Equity,Financials,1062.75,1063.83,TDR_LN_FIN02,0.1,,In Tolerance,N/A,0
-421,2026-06-12,4,JPM,Equity,Financials,320.72,330.63,TDR_NY_FIN01,3.09,149.0,Minor,Open,1
+421,2026-06-12,4,JPM,Equity,Financials,320.72,330.63,TDR_NY_FIN01,3.09,23.0,Minor,Open,1
 422,2026-06-12,7,MS,Equity,Financials,214.04,219.68,TDR_NY_FIN01,2.64,,In Tolerance,N/A,0
 423,2026-06-12,2,MSFT,Equity,Technology,390.74,389.28,TDR_NY_TECH01,-0.37,,In Tolerance,N/A,0
 424,2026-06-12,6,UBS,Equity,Financials,48.97,49.68,TDR_LN_FIN02,1.45,,In Tolerance,N/A,0
@@ -430,7 +430,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 429,2026-06-15,4,JPM,Equity,Financials,319.4,324.47,TDR_NY_FIN01,1.59,,In Tolerance,N/A,0
 430,2026-06-15,7,MS,Equity,Financials,217.98,212.23,TDR_NY_FIN01,-2.64,,In Tolerance,N/A,0
 431,2026-06-15,2,MSFT,Equity,Technology,399.76,392.66,TDR_NY_TECH01,-1.78,,In Tolerance,N/A,0
-432,2026-06-15,6,UBS,Equity,Financials,49.55,48.03,TDR_LN_FIN02,-3.07,150.0,Minor,Open,1
+432,2026-06-15,6,UBS,Equity,Financials,49.55,48.03,TDR_LN_FIN02,-3.07,24.0,Minor,Open,1
 433,2026-06-16,1,AAPL,Equity,Technology,299.24,298.03,TDR_NY_TECH01,-0.4,,In Tolerance,N/A,0
 434,2026-06-16,8,BAC,Equity,Financials,56.84,57.45,TDR_NY_FIN01,1.07,,In Tolerance,N/A,0
 435,2026-06-16,3,GOOGL,Equity,Technology,373.25,381.66,TDR_NY_TECH02,2.25,,In Tolerance,N/A,0
@@ -441,12 +441,12 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 440,2026-06-16,6,UBS,Equity,Financials,50.46,50.42,TDR_LN_FIN02,-0.08,,In Tolerance,N/A,0
 441,2026-06-17,1,AAPL,Equity,Technology,295.95,297.65,TDR_NY_TECH01,0.57,,In Tolerance,N/A,0
 442,2026-06-17,8,BAC,Equity,Financials,56.53,56.5,TDR_NY_FIN01,-0.05,,In Tolerance,N/A,0
-443,2026-06-17,3,GOOGL,Equity,Technology,363.79,352.51,TDR_NY_TECH02,-3.1,151.0,Minor,Open,1
+443,2026-06-17,3,GOOGL,Equity,Technology,363.79,352.51,TDR_NY_TECH02,-3.1,25.0,Minor,Open,1
 444,2026-06-17,5,GS,Equity,Financials,1099.14,1097.67,TDR_LN_FIN02,-0.13,,In Tolerance,N/A,0
 445,2026-06-17,4,JPM,Equity,Financials,333.46,326.94,TDR_NY_FIN01,-1.96,,In Tolerance,N/A,0
 446,2026-06-17,7,MS,Equity,Financials,224.96,227.22,TDR_NY_FIN01,1.0,,In Tolerance,N/A,0
 447,2026-06-17,2,MSFT,Equity,Technology,378.91,380.99,TDR_NY_TECH01,0.55,,In Tolerance,N/A,0
-448,2026-06-17,6,UBS,Equity,Financials,49.73,45.88,TDR_LN_FIN02,-7.74,152.0,Major,Open,1
+448,2026-06-17,6,UBS,Equity,Financials,49.73,45.88,TDR_LN_FIN02,-7.74,26.0,Major,Open,1
 449,2026-06-18,1,AAPL,Equity,Technology,298.01,295.71,TDR_NY_TECH01,-0.77,,In Tolerance,N/A,0
 450,2026-06-18,8,BAC,Equity,Financials,56.2,55.31,TDR_NY_FIN01,-1.58,,In Tolerance,N/A,0
 451,2026-06-18,3,GOOGL,Equity,Technology,368.03,367.68,TDR_NY_TECH02,-0.1,,In Tolerance,N/A,0
@@ -470,14 +470,14 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 469,2026-06-23,4,JPM,Equity,Financials,334.14,331.48,TDR_NY_FIN01,-0.8,,In Tolerance,N/A,0
 470,2026-06-23,7,MS,Equity,Financials,226.03,224.08,TDR_NY_FIN01,-0.86,,In Tolerance,N/A,0
 471,2026-06-23,2,MSFT,Equity,Technology,373.94,372.4,TDR_NY_TECH01,-0.41,,In Tolerance,N/A,0
-472,2026-06-23,6,UBS,Equity,Financials,50.29,48.55,TDR_LN_FIN02,-3.46,153.0,Minor,Open,1
+472,2026-06-23,6,UBS,Equity,Financials,50.29,48.55,TDR_LN_FIN02,-3.46,27.0,Minor,Open,1
 473,2026-06-24,1,AAPL,Equity,Technology,293.08,286.42,TDR_NY_TECH01,-2.27,,In Tolerance,N/A,0
 474,2026-06-24,8,BAC,Equity,Financials,57.73,58.91,TDR_NY_FIN01,2.04,,In Tolerance,N/A,0
 475,2026-06-24,3,GOOGL,Equity,Technology,345.29,353.81,TDR_NY_TECH02,2.47,,In Tolerance,N/A,0
 476,2026-06-24,5,GS,Equity,Financials,1076.91,1072.89,TDR_LN_FIN02,-0.37,,In Tolerance,N/A,0
 477,2026-06-24,4,JPM,Equity,Financials,333.45,336.33,TDR_NY_FIN01,0.86,,In Tolerance,N/A,0
 478,2026-06-24,7,MS,Equity,Financials,219.86,220.89,TDR_NY_FIN01,0.47,,In Tolerance,N/A,0
-479,2026-06-24,2,MSFT,Equity,Technology,365.46,382.34,TDR_NY_TECH01,4.62,154.0,Minor,Open,1
+479,2026-06-24,2,MSFT,Equity,Technology,365.46,382.34,TDR_NY_TECH01,4.62,28.0,Minor,Open,1
 480,2026-06-24,6,UBS,Equity,Financials,49.4,50.23,TDR_LN_FIN02,1.68,,In Tolerance,N/A,0
 481,2026-06-25,1,AAPL,Equity,Technology,275.15,274.62,TDR_NY_TECH01,-0.19,,In Tolerance,N/A,0
 482,2026-06-25,8,BAC,Equity,Financials,58.19,57.36,TDR_NY_FIN01,-1.43,,In Tolerance,N/A,0
@@ -493,7 +493,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 492,2026-06-26,5,GS,Equity,Financials,1019.61,1042.24,TDR_LN_FIN02,2.22,,In Tolerance,N/A,0
 493,2026-06-26,4,JPM,Equity,Financials,329.05,329.43,TDR_NY_FIN01,0.12,,In Tolerance,N/A,0
 494,2026-06-26,7,MS,Equity,Financials,212.03,209.29,TDR_NY_FIN01,-1.29,,In Tolerance,N/A,0
-495,2026-06-26,2,MSFT,Equity,Technology,372.97,343.71,TDR_NY_TECH01,-7.85,155.0,Major,Open,1
+495,2026-06-26,2,MSFT,Equity,Technology,372.97,343.71,TDR_NY_TECH01,-7.85,29.0,Major,Open,1
 496,2026-06-26,6,UBS,Equity,Financials,49.09,49.49,TDR_LN_FIN02,0.81,,In Tolerance,N/A,0
 497,2026-06-29,1,AAPL,Equity,Technology,281.74,277.36,TDR_NY_TECH01,-1.55,,In Tolerance,N/A,0
 498,2026-06-29,8,BAC,Equity,Financials,57.88,57.71,TDR_NY_FIN01,-0.29,,In Tolerance,N/A,0
@@ -503,7 +503,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 502,2026-06-29,7,MS,Equity,Financials,211.72,217.78,TDR_NY_FIN01,2.86,,In Tolerance,N/A,0
 503,2026-06-29,2,MSFT,Equity,Technology,368.57,360.84,TDR_NY_TECH01,-2.1,,In Tolerance,N/A,0
 504,2026-06-29,6,UBS,Equity,Financials,49.49,49.91,TDR_LN_FIN02,0.85,,In Tolerance,N/A,0
-505,2026-06-30,1,AAPL,Equity,Technology,289.36,272.49,TDR_NY_TECH01,-5.83,156.0,Major,Open,1
+505,2026-06-30,1,AAPL,Equity,Technology,289.36,272.49,TDR_NY_TECH01,-5.83,30.0,Major,Open,1
 506,2026-06-30,8,BAC,Equity,Financials,56.98,56.56,TDR_NY_FIN01,-0.74,,In Tolerance,N/A,0
 507,2026-06-30,3,GOOGL,Equity,Technology,357.37,354.19,TDR_NY_TECH02,-0.89,,In Tolerance,N/A,0
 508,2026-06-30,5,GS,Equity,Financials,1011.37,998.26,TDR_LN_FIN02,-1.3,,In Tolerance,N/A,0
@@ -541,9 +541,9 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 540,2026-07-07,5,GS,Equity,Financials,1042.98,1033.95,TDR_LN_FIN02,-0.87,,In Tolerance,N/A,0
 541,2026-07-07,4,JPM,Equity,Financials,339.22,343.47,TDR_NY_FIN01,1.25,,In Tolerance,N/A,0
 542,2026-07-07,7,MS,Equity,Financials,222.04,218.28,TDR_NY_FIN01,-1.69,,In Tolerance,N/A,0
-543,2026-07-07,2,MSFT,Equity,Technology,388.84,367.0,TDR_NY_TECH01,-5.62,157.0,Major,Open,1
+543,2026-07-07,2,MSFT,Equity,Technology,388.84,367.0,TDR_NY_TECH01,-5.62,31.0,Major,Open,1
 544,2026-07-07,6,UBS,Equity,Financials,51.44,52.55,TDR_LN_FIN02,2.16,,In Tolerance,N/A,0
-545,2026-07-08,1,AAPL,Equity,Technology,313.39,301.77,TDR_NY_TECH01,-3.71,158.0,Minor,Open,1
+545,2026-07-08,1,AAPL,Equity,Technology,313.39,301.77,TDR_NY_TECH01,-3.71,32.0,Minor,Open,1
 546,2026-07-08,8,BAC,Equity,Financials,58.3,57.6,TDR_NY_FIN01,-1.2,,In Tolerance,N/A,0
 547,2026-07-08,3,GOOGL,Equity,Technology,361.92,365.05,TDR_NY_TECH02,0.86,,In Tolerance,N/A,0
 548,2026-07-08,5,GS,Equity,Financials,1029.64,1026.5,TDR_LN_FIN02,-0.3,,In Tolerance,N/A,0
@@ -559,13 +559,13 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 558,2026-07-09,7,MS,Equity,Financials,222.13,220.69,TDR_NY_FIN01,-0.65,,In Tolerance,N/A,0
 559,2026-07-09,2,MSFT,Equity,Technology,384.36,386.63,TDR_NY_TECH01,0.59,,In Tolerance,N/A,0
 560,2026-07-09,6,UBS,Equity,Financials,51.86,51.53,TDR_LN_FIN02,-0.64,,In Tolerance,N/A,0
-561,2026-07-10,1,AAPL,Equity,Technology,315.32,339.7,TDR_NY_TECH01,7.73,159.0,Major,Open,1
-562,2026-07-10,8,BAC,Equity,Financials,59.67,61.53,TDR_NY_FIN01,3.12,160.0,Minor,Open,1
+561,2026-07-10,1,AAPL,Equity,Technology,315.32,339.7,TDR_NY_TECH01,7.73,33.0,Major,Open,1
+562,2026-07-10,8,BAC,Equity,Financials,59.67,61.53,TDR_NY_FIN01,3.12,34.0,Minor,Open,1
 563,2026-07-10,3,GOOGL,Equity,Technology,357.18,361.85,TDR_NY_TECH02,1.31,,In Tolerance,N/A,0
 564,2026-07-10,5,GS,Equity,Financials,1055.18,1050.02,TDR_LN_FIN02,-0.49,,In Tolerance,N/A,0
 565,2026-07-10,4,JPM,Equity,Financials,336.47,342.53,TDR_NY_FIN01,1.8,,In Tolerance,N/A,0
 566,2026-07-10,7,MS,Equity,Financials,222.28,220.92,TDR_NY_FIN01,-0.61,,In Tolerance,N/A,0
-567,2026-07-10,2,MSFT,Equity,Technology,385.1,373.33,TDR_NY_TECH01,-3.06,161.0,Minor,Open,1
+567,2026-07-10,2,MSFT,Equity,Technology,385.1,373.33,TDR_NY_TECH01,-3.06,35.0,Minor,Open,1
 568,2026-07-10,6,UBS,Equity,Financials,52.08,51.29,TDR_LN_FIN02,-1.52,,In Tolerance,N/A,0
 569,2026-07-13,1,AAPL,Equity,Technology,317.31,308.41,TDR_NY_TECH01,-2.8,,In Tolerance,N/A,0
 570,2026-07-13,8,BAC,Equity,Financials,59.5,59.19,TDR_NY_FIN01,-0.52,,In Tolerance,N/A,0
@@ -574,7 +574,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 573,2026-07-13,4,JPM,Equity,Financials,334.53,336.17,TDR_NY_FIN01,0.49,,In Tolerance,N/A,0
 574,2026-07-13,7,MS,Equity,Financials,221.09,220.36,TDR_NY_FIN01,-0.33,,In Tolerance,N/A,0
 575,2026-07-13,2,MSFT,Equity,Technology,390.99,395.85,TDR_NY_TECH01,1.24,,In Tolerance,N/A,0
-576,2026-07-13,6,UBS,Equity,Financials,51.93,50.21,TDR_LN_FIN02,-3.31,162.0,Minor,Open,1
+576,2026-07-13,6,UBS,Equity,Financials,51.93,50.21,TDR_LN_FIN02,-3.31,36.0,Minor,Open,1
 577,2026-07-14,1,AAPL,Equity,Technology,314.86,315.97,TDR_NY_TECH01,0.35,,In Tolerance,N/A,0
 578,2026-07-14,8,BAC,Equity,Financials,60.62,61.32,TDR_NY_FIN01,1.15,,In Tolerance,N/A,0
 579,2026-07-14,3,GOOGL,Equity,Technology,359.51,351.54,TDR_NY_TECH02,-2.22,,In Tolerance,N/A,0
@@ -582,7 +582,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 581,2026-07-14,4,JPM,Equity,Financials,342.89,344.63,TDR_NY_FIN01,0.51,,In Tolerance,N/A,0
 582,2026-07-14,7,MS,Equity,Financials,227.67,226.25,TDR_NY_FIN01,-0.62,,In Tolerance,N/A,0
 583,2026-07-14,2,MSFT,Equity,Technology,384.93,388.58,TDR_NY_TECH01,0.95,,In Tolerance,N/A,0
-584,2026-07-14,6,UBS,Equity,Financials,53.82,55.65,TDR_LN_FIN02,3.4,163.0,Minor,Open,1
+584,2026-07-14,6,UBS,Equity,Financials,53.82,55.65,TDR_LN_FIN02,3.4,37.0,Minor,Open,1
 585,2026-07-15,1,AAPL,Equity,Technology,327.5,328.39,TDR_NY_TECH01,0.27,,In Tolerance,N/A,0
 586,2026-07-15,8,BAC,Equity,Financials,61.59,61.82,TDR_NY_FIN01,0.37,,In Tolerance,N/A,0
 587,2026-07-15,3,GOOGL,Equity,Technology,370.92,368.36,TDR_NY_TECH02,-0.69,,In Tolerance,N/A,0
@@ -613,7 +613,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 612,2026-07-20,5,GS,Equity,Financials,1055.03,1054.15,TDR_LN_FIN02,-0.08,,In Tolerance,N/A,0
 613,2026-07-20,4,JPM,Equity,Financials,338.87,340.29,TDR_NY_FIN01,0.42,,In Tolerance,N/A,0
 614,2026-07-20,7,MS,Equity,Financials,210.94,207.38,TDR_NY_FIN01,-1.69,,In Tolerance,N/A,0
-615,2026-07-20,2,MSFT,Equity,Technology,402.29,417.05,TDR_NY_TECH01,3.67,164.0,Minor,Open,1
+615,2026-07-20,2,MSFT,Equity,Technology,402.29,417.05,TDR_NY_TECH01,3.67,38.0,Minor,Open,1
 616,2026-07-20,6,UBS,Equity,Financials,51.5,51.6,TDR_LN_FIN02,0.19,,In Tolerance,N/A,0
 617,2026-07-21,1,AAPL,Equity,Technology,327.74,328.28,TDR_NY_TECH01,0.16,,In Tolerance,N/A,0
 618,2026-07-21,8,BAC,Equity,Financials,61.22,61.89,TDR_NY_FIN01,1.09,,In Tolerance,N/A,0
@@ -640,12 +640,12 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 639,2026-07-23,2,MSFT,Equity,Technology,381.58,374.2,TDR_NY_TECH01,-1.93,,In Tolerance,N/A,0
 640,2026-07-23,6,UBS,Equity,Financials,51.55,50.55,TDR_LN_FIN02,-1.94,,In Tolerance,N/A,0
 641,2026-07-24,1,AAPL,Equity,Technology,333.02,331.34,TDR_NY_TECH01,-0.5,,In Tolerance,N/A,0
-642,2026-07-24,8,BAC,Equity,Financials,62.05,66.18,TDR_NY_FIN01,6.66,165.0,Major,Open,1
+642,2026-07-24,8,BAC,Equity,Financials,62.05,66.18,TDR_NY_FIN01,6.66,39.0,Major,Open,1
 643,2026-07-24,3,GOOGL,Equity,Technology,319.74,318.49,TDR_NY_TECH02,-0.39,,In Tolerance,N/A,0
 644,2026-07-24,5,GS,Equity,Financials,1061.23,1037.3,TDR_LN_FIN02,-2.25,,In Tolerance,N/A,0
-645,2026-07-24,4,JPM,Equity,Financials,353.21,372.85,TDR_NY_FIN01,5.56,166.0,Major,Open,1
-646,2026-07-24,7,MS,Equity,Financials,214.48,226.43,TDR_NY_FIN01,5.57,167.0,Major,Open,1
-647,2026-07-24,2,MSFT,Equity,Technology,381.7,366.26,TDR_NY_TECH01,-4.05,168.0,Minor,Open,1
+645,2026-07-24,4,JPM,Equity,Financials,353.21,372.85,TDR_NY_FIN01,5.56,40.0,Major,Open,1
+646,2026-07-24,7,MS,Equity,Financials,214.48,226.43,TDR_NY_FIN01,5.57,41.0,Major,Open,1
+647,2026-07-24,2,MSFT,Equity,Technology,381.7,366.26,TDR_NY_TECH01,-4.05,42.0,Minor,Open,1
 648,2026-07-24,6,UBS,Equity,Financials,51.74,51.7,TDR_LN_FIN02,-0.08,,In Tolerance,N/A,0
 649,2026-07-27,1,AAPL,Equity,Technology,336.91,335.74,TDR_NY_TECH01,-0.35,,In Tolerance,N/A,0
 650,2026-07-27,8,BAC,Equity,Financials,62.13,62.78,TDR_NY_FIN01,1.05,,In Tolerance,N/A,0
@@ -653,12 +653,12 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 652,2026-07-27,5,GS,Equity,Financials,1048.23,1065.94,TDR_LN_FIN02,1.69,,In Tolerance,N/A,0
 653,2026-07-27,4,JPM,Equity,Financials,356.2,354.76,TDR_NY_FIN01,-0.4,,In Tolerance,N/A,0
 654,2026-07-27,7,MS,Equity,Financials,214.56,211.0,TDR_NY_FIN01,-1.66,,In Tolerance,N/A,0
-655,2026-07-27,2,MSFT,Equity,Technology,389.1,404.12,TDR_NY_TECH01,3.86,169.0,Minor,Open,1
+655,2026-07-27,2,MSFT,Equity,Technology,389.1,404.12,TDR_NY_TECH01,3.86,43.0,Minor,Open,1
 656,2026-07-27,6,UBS,Equity,Financials,52.54,52.59,TDR_LN_FIN02,0.1,,In Tolerance,N/A,0
 657,2026-07-28,1,AAPL,Equity,Technology,340.08,340.15,TDR_NY_TECH01,0.02,,In Tolerance,N/A,0
 658,2026-07-28,8,BAC,Equity,Financials,62.62,62.6,TDR_NY_FIN01,-0.03,,In Tolerance,N/A,0
 659,2026-07-28,3,GOOGL,Equity,Technology,333.71,334.7,TDR_NY_TECH02,0.3,,In Tolerance,N/A,0
-660,2026-07-28,5,GS,Equity,Financials,1033.34,960.77,TDR_LN_FIN02,-7.02,170.0,Major,Open,1
+660,2026-07-28,5,GS,Equity,Financials,1033.34,960.77,TDR_LN_FIN02,-7.02,44.0,Major,Open,1
 661,2026-07-28,4,JPM,Equity,Financials,357.31,354.24,TDR_NY_FIN01,-0.86,,In Tolerance,N/A,0
 662,2026-07-28,7,MS,Equity,Financials,211.58,209.84,TDR_NY_FIN01,-0.82,,In Tolerance,N/A,0
 663,2026-07-28,2,MSFT,Equity,Technology,393.35,393.16,TDR_NY_TECH01,-0.05,,In Tolerance,N/A,0
@@ -667,10 +667,10 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 666,2026-07-29,8,BAC,Equity,Financials,61.07,61.17,TDR_NY_FIN01,0.16,,In Tolerance,N/A,0
 667,2026-07-29,3,GOOGL,Equity,Technology,336.71,335.42,TDR_NY_TECH02,-0.38,,In Tolerance,N/A,0
 668,2026-07-29,5,GS,Equity,Financials,980.75,1002.88,TDR_LN_FIN02,2.26,,In Tolerance,N/A,0
-669,2026-07-29,4,JPM,Equity,Financials,344.71,331.0,TDR_NY_FIN01,-3.98,171.0,Minor,Open,1
+669,2026-07-29,4,JPM,Equity,Financials,344.71,331.0,TDR_NY_FIN01,-3.98,45.0,Minor,Open,1
 670,2026-07-29,7,MS,Equity,Financials,203.13,206.46,TDR_NY_FIN01,1.64,,In Tolerance,N/A,0
 671,2026-07-29,2,MSFT,Equity,Technology,390.54,397.84,TDR_NY_TECH01,1.87,,In Tolerance,N/A,0
-672,2026-07-29,6,UBS,Equity,Financials,51.8,50.19,TDR_LN_FIN02,-3.11,172.0,Minor,Open,1
+672,2026-07-29,6,UBS,Equity,Financials,51.8,50.19,TDR_LN_FIN02,-3.11,46.0,Minor,Open,1
 673,2026-07-30,1,AAPL,Equity,Technology,333.43,331.72,TDR_NY_TECH01,-0.51,,In Tolerance,N/A,0
 674,2026-07-30,8,BAC,Equity,Financials,61.73,61.39,TDR_NY_FIN01,-0.55,,In Tolerance,N/A,0
 675,2026-07-30,3,GOOGL,Equity,Technology,333.66,326.62,TDR_NY_TECH02,-2.11,,In Tolerance,N/A,0
@@ -707,7 +707,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 706,2026-08-05,8,BAC,Equity,Financials,63.25,63.82,TDR_NY_FIN01,0.9,,In Tolerance,N/A,0
 707,2026-08-05,3,GOOGL,Equity,Technology,362.43,355.47,TDR_NY_TECH02,-1.92,,In Tolerance,N/A,0
 708,2026-08-05,5,GS,Equity,Financials,1060.38,1088.29,TDR_LN_FIN02,2.63,,In Tolerance,N/A,0
-709,2026-08-05,4,JPM,Equity,Financials,359.24,348.02,TDR_NY_FIN01,-3.12,173.0,Minor,Open,1
+709,2026-08-05,4,JPM,Equity,Financials,359.24,348.02,TDR_NY_FIN01,-3.12,47.0,Minor,Open,1
 710,2026-08-05,7,MS,Equity,Financials,218.27,223.82,TDR_NY_FIN01,2.54,,In Tolerance,N/A,0
 711,2026-08-05,2,MSFT,Equity,Technology,487.46,489.0,TDR_NY_TECH01,0.32,,In Tolerance,N/A,0
 712,2026-08-05,6,UBS,Equity,Financials,53.57,53.49,TDR_LN_FIN02,-0.15,,In Tolerance,N/A,0
@@ -726,7 +726,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 725,2026-08-07,4,JPM,Equity,Financials,357.52,358.44,TDR_NY_FIN01,0.26,,In Tolerance,N/A,0
 726,2026-08-07,7,MS,Equity,Financials,216.33,215.73,TDR_NY_FIN01,-0.28,,In Tolerance,N/A,0
 727,2026-08-07,2,MSFT,Equity,Technology,499.99,500.13,TDR_NY_TECH01,0.03,,In Tolerance,N/A,0
-728,2026-08-07,6,UBS,Equity,Financials,53.76,50.41,TDR_LN_FIN02,-6.23,174.0,Major,Open,1
+728,2026-08-07,6,UBS,Equity,Financials,53.76,50.41,TDR_LN_FIN02,-6.23,48.0,Major,Open,1
 729,2026-08-10,1,AAPL,Equity,Technology,308.26,305.76,TDR_NY_TECH01,-0.81,,In Tolerance,N/A,0
 730,2026-08-10,8,BAC,Equity,Financials,63.86,63.11,TDR_NY_FIN01,-1.17,,In Tolerance,N/A,0
 731,2026-08-10,3,GOOGL,Equity,Technology,357.52,358.57,TDR_NY_TECH02,0.29,,In Tolerance,N/A,0
@@ -754,18 +754,18 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 753,2026-08-13,1,AAPL,Equity,Technology,305.26,300.79,TDR_NY_TECH01,-1.46,,In Tolerance,N/A,0
 754,2026-08-13,8,BAC,Equity,Financials,64.09,65.1,TDR_NY_FIN01,1.58,,In Tolerance,N/A,0
 755,2026-08-13,3,GOOGL,Equity,Technology,346.36,341.43,TDR_NY_TECH02,-1.42,,In Tolerance,N/A,0
-756,2026-08-13,5,GS,Equity,Financials,1042.63,1083.8,TDR_LN_FIN02,3.95,175.0,Minor,Open,1
+756,2026-08-13,5,GS,Equity,Financials,1042.63,1083.8,TDR_LN_FIN02,3.95,49.0,Minor,Open,1
 757,2026-08-13,4,JPM,Equity,Financials,363.11,365.8,TDR_NY_FIN01,0.74,,In Tolerance,N/A,0
 758,2026-08-13,7,MS,Equity,Financials,218.38,218.99,TDR_NY_FIN01,0.28,,In Tolerance,N/A,0
 759,2026-08-13,2,MSFT,Equity,Technology,496.88,490.48,TDR_NY_TECH01,-1.29,,In Tolerance,N/A,0
 760,2026-08-13,6,UBS,Equity,Financials,53.73,54.29,TDR_LN_FIN02,1.04,,In Tolerance,N/A,0
 761,2026-08-14,1,AAPL,Equity,Technology,305.93,303.29,TDR_NY_TECH01,-0.86,,In Tolerance,N/A,0
 762,2026-08-14,8,BAC,Equity,Financials,64.49,64.61,TDR_NY_FIN01,0.19,,In Tolerance,N/A,0
-763,2026-08-14,3,GOOGL,Equity,Technology,345.9,359.18,TDR_NY_TECH02,3.84,176.0,Minor,Open,1
+763,2026-08-14,3,GOOGL,Equity,Technology,345.9,359.18,TDR_NY_TECH02,3.84,50.0,Minor,Open,1
 764,2026-08-14,5,GS,Equity,Financials,1039.42,1037.92,TDR_LN_FIN02,-0.14,,In Tolerance,N/A,0
 765,2026-08-14,4,JPM,Equity,Financials,362.84,369.1,TDR_NY_FIN01,1.73,,In Tolerance,N/A,0
 766,2026-08-14,7,MS,Equity,Financials,217.36,215.07,TDR_NY_FIN01,-1.05,,In Tolerance,N/A,0
-767,2026-08-14,2,MSFT,Equity,Technology,495.4,523.66,TDR_NY_TECH01,5.7,177.0,Major,Open,1
+767,2026-08-14,2,MSFT,Equity,Technology,495.4,523.66,TDR_NY_TECH01,5.7,51.0,Major,Open,1
 768,2026-08-14,6,UBS,Equity,Financials,53.63,55.05,TDR_LN_FIN02,2.65,,In Tolerance,N/A,0
 769,2026-08-17,1,AAPL,Equity,Technology,305.59,302.72,TDR_NY_TECH01,-0.94,,In Tolerance,N/A,0
 770,2026-08-17,8,BAC,Equity,Financials,63.89,65.63,TDR_NY_FIN01,2.72,,In Tolerance,N/A,0
@@ -797,7 +797,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 796,2026-08-20,5,GS,Equity,Financials,1001.95,1017.78,TDR_LN_FIN02,1.58,,In Tolerance,N/A,0
 797,2026-08-20,4,JPM,Equity,Financials,351.55,351.34,TDR_NY_FIN01,-0.06,,In Tolerance,N/A,0
 798,2026-08-20,7,MS,Equity,Financials,207.45,209.57,TDR_NY_FIN01,1.02,,In Tolerance,N/A,0
-799,2026-08-20,2,MSFT,Equity,Technology,481.15,442.71,TDR_NY_TECH01,-7.99,178.0,Major,Open,1
+799,2026-08-20,2,MSFT,Equity,Technology,481.15,442.71,TDR_NY_TECH01,-7.99,52.0,Major,Open,1
 800,2026-08-20,6,UBS,Equity,Financials,53.2,53.22,TDR_LN_FIN02,0.04,,In Tolerance,N/A,0
 801,2026-08-21,1,AAPL,Equity,Technology,309.35,313.7,TDR_NY_TECH01,1.41,,In Tolerance,N/A,0
 802,2026-08-21,8,BAC,Equity,Financials,61.69,61.21,TDR_NY_FIN01,-0.78,,In Tolerance,N/A,0
@@ -821,7 +821,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 820,2026-08-25,5,GS,Equity,Financials,1058.88,1075.8,TDR_LN_FIN02,1.6,,In Tolerance,N/A,0
 821,2026-08-25,4,JPM,Equity,Financials,356.69,353.92,TDR_NY_FIN01,-0.78,,In Tolerance,N/A,0
 822,2026-08-25,7,MS,Equity,Financials,216.77,221.35,TDR_NY_FIN01,2.11,,In Tolerance,N/A,0
-823,2026-08-25,2,MSFT,Equity,Technology,491.71,508.67,TDR_NY_TECH01,3.45,179.0,Minor,Open,1
+823,2026-08-25,2,MSFT,Equity,Technology,491.71,508.67,TDR_NY_TECH01,3.45,53.0,Minor,Open,1
 824,2026-08-25,6,UBS,Equity,Financials,54.23,53.93,TDR_LN_FIN02,-0.55,,In Tolerance,N/A,0
 825,2026-08-26,1,AAPL,Equity,Technology,313.45,311.36,TDR_NY_TECH01,-0.67,,In Tolerance,N/A,0
 826,2026-08-26,8,BAC,Equity,Financials,62.23,63.59,TDR_NY_FIN01,2.19,,In Tolerance,N/A,0
@@ -846,7 +846,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 845,2026-08-28,4,JPM,Equity,Financials,357.62,358.51,TDR_NY_FIN01,0.25,,In Tolerance,N/A,0
 846,2026-08-28,7,MS,Equity,Financials,214.77,216.36,TDR_NY_FIN01,0.74,,In Tolerance,N/A,0
 847,2026-08-28,2,MSFT,Equity,Technology,513.53,515.76,TDR_NY_TECH01,0.43,,In Tolerance,N/A,0
-848,2026-08-28,6,UBS,Equity,Financials,54.9,56.92,TDR_LN_FIN02,3.68,180.0,Minor,Open,1
+848,2026-08-28,6,UBS,Equity,Financials,54.9,56.92,TDR_LN_FIN02,3.68,54.0,Minor,Open,1
 849,2026-08-31,1,AAPL,Equity,Technology,316.85,313.82,TDR_NY_TECH01,-0.96,,In Tolerance,N/A,0
 850,2026-08-31,8,BAC,Equity,Financials,61.94,61.45,TDR_NY_FIN01,-0.79,,In Tolerance,N/A,0
 851,2026-08-31,3,GOOGL,Equity,Technology,339.35,336.18,TDR_NY_TECH02,-0.93,,In Tolerance,N/A,0
@@ -868,7 +868,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 867,2026-09-02,3,GOOGL,Equity,Technology,337.12,338.57,TDR_NY_TECH02,0.43,,In Tolerance,N/A,0
 868,2026-09-02,5,GS,Equity,Financials,1004.42,1009.46,TDR_LN_FIN02,0.5,,In Tolerance,N/A,0
 869,2026-09-02,4,JPM,Equity,Financials,356.22,359.74,TDR_NY_FIN01,0.99,,In Tolerance,N/A,0
-870,2026-09-02,7,MS,Equity,Financials,211.82,218.21,TDR_NY_FIN01,3.02,181.0,Minor,Open,1
+870,2026-09-02,7,MS,Equity,Financials,211.82,218.21,TDR_NY_FIN01,3.02,55.0,Minor,Open,1
 871,2026-09-02,2,MSFT,Equity,Technology,496.82,495.5,TDR_NY_TECH01,-0.27,,In Tolerance,N/A,0
 872,2026-09-02,6,UBS,Equity,Financials,54.9,54.24,TDR_LN_FIN02,-1.2,,In Tolerance,N/A,0
 873,2026-09-03,1,AAPL,Equity,Technology,328.21,321.42,TDR_NY_TECH01,-2.07,,In Tolerance,N/A,0
@@ -879,7 +879,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 878,2026-09-03,7,MS,Equity,Financials,217.15,217.88,TDR_NY_FIN01,0.34,,In Tolerance,N/A,0
 879,2026-09-03,2,MSFT,Equity,Technology,510.12,509.99,TDR_NY_TECH01,-0.03,,In Tolerance,N/A,0
 880,2026-09-03,6,UBS,Equity,Financials,55.68,56.67,TDR_LN_FIN02,1.78,,In Tolerance,N/A,0
-881,2026-09-04,1,AAPL,Equity,Technology,319.97,332.1,TDR_NY_TECH01,3.79,182.0,Minor,Open,1
+881,2026-09-04,1,AAPL,Equity,Technology,319.97,332.1,TDR_NY_TECH01,3.79,56.0,Minor,Open,1
 882,2026-09-04,8,BAC,Equity,Financials,62.68,62.18,TDR_NY_FIN01,-0.8,,In Tolerance,N/A,0
 883,2026-09-04,3,GOOGL,Equity,Technology,338.46,335.98,TDR_NY_TECH02,-0.73,,In Tolerance,N/A,0
 884,2026-09-04,5,GS,Equity,Financials,1038.61,1054.88,TDR_LN_FIN02,1.57,,In Tolerance,N/A,0
@@ -908,7 +908,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 907,2026-09-10,3,GOOGL,Equity,Technology,332.6,325.82,TDR_NY_TECH02,-2.04,,In Tolerance,N/A,0
 908,2026-09-10,5,GS,Equity,Financials,1019.77,1031.19,TDR_LN_FIN02,1.12,,In Tolerance,N/A,0
 909,2026-09-10,4,JPM,Equity,Financials,353.56,356.98,TDR_NY_FIN01,0.97,,In Tolerance,N/A,0
-910,2026-09-10,7,MS,Equity,Financials,212.66,219.56,TDR_NY_FIN01,3.24,183.0,Minor,Open,1
+910,2026-09-10,7,MS,Equity,Financials,212.66,219.56,TDR_NY_FIN01,3.24,57.0,Minor,Open,1
 911,2026-09-10,2,MSFT,Equity,Technology,492.44,490.17,TDR_NY_TECH01,-0.46,,In Tolerance,N/A,0
 912,2026-09-10,6,UBS,Equity,Financials,54.01,54.19,TDR_LN_FIN02,0.33,,In Tolerance,N/A,0
 913,2026-09-11,1,AAPL,Equity,Technology,332.27,333.51,TDR_NY_TECH01,0.37,,In Tolerance,N/A,0
@@ -932,10 +932,10 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 931,2026-09-15,3,GOOGL,Equity,Technology,344.98,342.11,TDR_NY_TECH02,-0.83,,In Tolerance,N/A,0
 932,2026-09-15,5,GS,Equity,Financials,976.67,1004.23,TDR_LN_FIN02,2.82,,In Tolerance,N/A,0
 933,2026-09-15,4,JPM,Equity,Financials,352.49,344.83,TDR_NY_FIN01,-2.17,,In Tolerance,N/A,0
-934,2026-09-15,7,MS,Equity,Financials,206.28,199.48,TDR_NY_FIN01,-3.3,184.0,Minor,Open,1
+934,2026-09-15,7,MS,Equity,Financials,206.28,199.48,TDR_NY_FIN01,-3.3,58.0,Minor,Open,1
 935,2026-09-15,2,MSFT,Equity,Technology,497.12,500.4,TDR_NY_TECH01,0.66,,In Tolerance,N/A,0
 936,2026-09-15,6,UBS,Equity,Financials,51.49,51.1,TDR_LN_FIN02,-0.76,,In Tolerance,N/A,0
-937,2026-09-16,1,AAPL,Equity,Technology,332.41,358.99,TDR_NY_TECH01,8.0,185.0,Major,Open,1
+937,2026-09-16,1,AAPL,Equity,Technology,332.41,358.99,TDR_NY_TECH01,8.0,59.0,Major,Open,1
 938,2026-09-16,8,BAC,Equity,Financials,57.9,58.52,TDR_NY_FIN01,1.07,,In Tolerance,N/A,0
 939,2026-09-16,3,GOOGL,Equity,Technology,342.87,344.12,TDR_NY_TECH02,0.36,,In Tolerance,N/A,0
 940,2026-09-16,5,GS,Equity,Financials,937.98,930.04,TDR_LN_FIN02,-0.85,,In Tolerance,N/A,0
@@ -973,10 +973,10 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 972,2026-09-22,5,GS,Equity,Financials,949.49,939.79,TDR_LN_FIN02,-1.02,,In Tolerance,N/A,0
 973,2026-09-22,4,JPM,Equity,Financials,340.0,344.29,TDR_NY_FIN01,1.26,,In Tolerance,N/A,0
 974,2026-09-22,7,MS,Equity,Financials,200.18,198.22,TDR_NY_FIN01,-0.98,,In Tolerance,N/A,0
-975,2026-09-22,2,MSFT,Equity,Technology,498.0,533.08,TDR_NY_TECH01,7.04,186.0,Major,Open,1
+975,2026-09-22,2,MSFT,Equity,Technology,498.0,533.08,TDR_NY_TECH01,7.04,60.0,Major,Open,1
 976,2026-09-22,6,UBS,Equity,Financials,49.19,47.8,TDR_LN_FIN02,-2.83,,In Tolerance,N/A,0
 977,2026-09-23,1,AAPL,Equity,Technology,337.02,334.73,TDR_NY_TECH01,-0.68,,In Tolerance,N/A,0
-978,2026-09-23,8,BAC,Equity,Financials,56.0,53.96,TDR_NY_FIN01,-3.64,187.0,Minor,Open,1
+978,2026-09-23,8,BAC,Equity,Financials,56.0,53.96,TDR_NY_FIN01,-3.64,61.0,Minor,Open,1
 979,2026-09-23,3,GOOGL,Equity,Technology,337.83,329.8,TDR_NY_TECH02,-2.38,,In Tolerance,N/A,0
 980,2026-09-23,5,GS,Equity,Financials,936.36,947.04,TDR_LN_FIN02,1.14,,In Tolerance,N/A,0
 981,2026-09-23,4,JPM,Equity,Financials,337.53,341.51,TDR_NY_FIN01,1.18,,In Tolerance,N/A,0
@@ -990,7 +990,7 @@ PriceID,ValuationDate,InstrumentID,Ticker,AssetClass,Sector,MarketPrice,TraderMa
 989,2026-09-24,4,JPM,Equity,Financials,338.56,337.44,TDR_NY_FIN01,-0.33,,In Tolerance,N/A,0
 990,2026-09-24,7,MS,Equity,Financials,196.32,196.4,TDR_NY_FIN01,0.04,,In Tolerance,N/A,0
 991,2026-09-24,2,MSFT,Equity,Technology,497.93,499.49,TDR_NY_TECH01,0.31,,In Tolerance,N/A,0
-992,2026-09-24,6,UBS,Equity,Financials,48.46,46.98,TDR_LN_FIN02,-3.05,188.0,Minor,Open,1
+992,2026-09-24,6,UBS,Equity,Financials,48.46,46.98,TDR_LN_FIN02,-3.05,62.0,Minor,Open,1
 993,2026-09-25,1,AAPL,Equity,Technology,341.07,339.81,TDR_NY_TECH01,-0.37,,In Tolerance,N/A,0
 994,2026-09-25,8,BAC,Equity,Financials,56.7,56.12,TDR_NY_FIN01,-1.02,,In Tolerance,N/A,0
 995,2026-09-25,3,GOOGL,Equity,Technology,343.92,338.75,TDR_NY_TECH02,-1.5,,In Tolerance,N/A,0
