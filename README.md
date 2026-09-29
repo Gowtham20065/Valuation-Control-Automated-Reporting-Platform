@@ -110,7 +110,7 @@ Valuation-Control-Automated-Reporting-Platform/
 ├── docs/
 │   └── images/                          # High-resolution dashboard and report previews
 ├── powerbi/
-│   ├── DAX_Measures.md                  # Complete DAX formulas and interview talking points
+│   ├── DAX_Measures.md                  # Complete DAX formulas, mechanics, and institutional rationale
 │   ├── PowerBI_Step_by_Step_Guide.md    # Visual-by-visual dashboard construction guide
 │   └── export_powerbi_dataset.py        # Analytics export and mathematical verification script
 ├── reports/
@@ -170,16 +170,3 @@ python powerbi/export_powerbi_dataset.py
 # Phase 6: Run GenAI Executive Briefing Engine (works offline or live with Gemini API)
 python src/genai_summary.py --date 2026-07-24
 ```
-
----
-
-## Key Interview Study Topics
-
-If interviewing for Finance / Business Analyst roles (e.g., **UBS Group Finance**, Product Control, or Valuation Control):
-
-1. **Why does IPV matter to the bank's Chief Financial Officer (CFO)?**  
-   *Because inaccurate trader marks directly distort the balance sheet carrying value. Under IFRS 13 / US GAAP, if positions are marked aggressively, the bank books unearned profit, pays unearned bonuses, and risks capital inadequacy. IPV guarantees balance sheet integrity by independent verification.*
-2. **Why use percentage variance over dollar difference?**  
-   *A \$5 difference on UBS (\$36) represents an alarming 13.9% variance, whereas \$5 on Goldman Sachs (\$810) is a routine 0.62% spread. Percentage variance normalizes price levels, enabling unified governance policies.*
-3. **Why did you frame the GenAI model as a Proof-of-Concept?**  
-   *Under Federal Reserve / OCC SR 11-7 Model Risk Management guidelines, LLMs are probabilistic and cannot act as autonomous financial controllers. GenAI serves as a Human-in-the-Loop decision-support copilot to draft morning briefing commentary, which must be verified and approved by a qualified Product Control Analyst before committee submission.*
